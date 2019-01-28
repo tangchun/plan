@@ -1,2 +1,2 @@
 # plan
-my plan for do something
+我的计划
